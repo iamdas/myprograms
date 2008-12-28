@@ -1,0 +1,362 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+BADARG	example/libnet_sample/win32/getopt.c	49;"	d	file:
+BADCH	example/libnet_sample/win32/getopt.c	48;"	d	file:
+Berkeley	pcap_txt.c	/^       Berkeley National Laboratory, University of California, Berkeley, CA.$/;"	v
+CONF	example/libnet_sample/stp.c	38;"	d	file:
+California	pcap_txt.c	/^       Berkeley National Laboratory, University of California, Berkeley, CA.$/;"	v
+EMSG	example/libnet_sample/win32/getopt.c	50;"	d	file:
+FRAG_LEN	example/libnet_sample/ping_of_death.c	42;"	d	file:
+Jacobson	pcap_txt.c	/^       Van Jacobson, Craig Leres and  Steven  McCanne,  all  of  the  Lawrence$/;"	v
+Laboratory	pcap_txt.c	/^       Berkeley National Laboratory, University of California, Berkeley, CA.$/;"	v
+McCanne	pcap_txt.c	/^       Van Jacobson, Craig Leres and  Steven  McCanne,  all  of  the  Lawrence$/;"	v
+NULL	pcap_txt.c	/^                     if not NULL, a pointer to a string giving  a  human-read-$/;"	v
+NULL	pcap_txt.c	/^                     if not NULL, a pointer to a struct sockaddr that contains$/;"	v
+NULL	pcap_txt.c	/^                     if not NULL, a pointer to a struct sockaddr that contains$/;"	v	typeref:struct:ot
+NULL	pcap_txt.c	/^              next   if  not  NULL, a pointer to the next element in the list;$/;"	v
+NULL	pcap_txt.c	/^              next   if not NULL, a pointer to the next element in  the  list;$/;"	v
+NULL	pcap_txt.c	/^       ``savefile'' was opened with pcap_open_offline(), or NULL, if a network$/;"	v
+OMPRESSED_TCP	pcap_txt.c	/^                      header, and for COMPRESSED_TCP,  the  compressed  TCP\/IP$/;"	v
+OS	pcap_txt.c	/^       from the OS; that loop will not necessarily be terminated by a  signal,$/;"	v
+OpenBSD	pcap_txt.c	/^       and -1 on  failure.   (pcap_inject()  comes  from  OpenBSD;  pcap_send-$/;"	v
+RFC	pcap_txt.c	/^                 PPP in HDLC-like framing, as per RFC 1662, or Cisco PPP  with$/;"	v
+TCN	example/libnet_sample/stp.c	39;"	d	file:
+UNIX	pcap_txt.c	/^       pcap_get_selectable_fd() returns, on UNIX, a file descriptor number for$/;"	v
+__LIBNET_TEST_H	example/libnet_sample/libnet_test.h	10;"	d
+addr	pcap_txt.c	/^                     pointed  to by addr; may be null if the interface isn't a$/;"	v	typeref:struct:by
+addr	pcap_txt.c	/^                     pointed to by addr; may be null if the interface  doesn't$/;"	v	typeref:struct:by
+address	pcap_txt.c	/^       the header contains such an address, might be changed to be the address$/;"	v
+apturing	pcap_txt.c	/^       indicate whether to open for capturing, sending, or capturing and send-$/;"	v
+arp_destination_ethernet_address	codelist/headers.c	/^    u_int8_t arp_destination_ethernet_address[6];    \/* 目的以太网地址 *\/$/;"	m	struct:arp_header	file:
+arp_destination_ethernet_address	example/get_arp_code.c	/^    u_int8_t arp_destination_ethernet_address[6];$/;"	m	struct:arp_header	file:
+arp_destination_ip_address	codelist/headers.c	/^    u_int8_t arp_destination_ip_address[4];    \/* 目的IP地址 *\/$/;"	m	struct:arp_header	file:
+arp_destination_ip_address	example/get_arp_code.c	/^    u_int8_t arp_destination_ip_address[4];$/;"	m	struct:arp_header	file:
+arp_hardware_length	codelist/headers.c	/^    u_int8_t arp_hardware_length;    \/* 硬件地址长度 *\/$/;"	m	struct:arp_header	file:
+arp_hardware_length	example/get_arp_code.c	/^    u_int8_t arp_hardware_length;$/;"	m	struct:arp_header	file:
+arp_hardware_type	codelist/headers.c	/^    u_int16_t arp_hardware_type;    \/* 硬件类型 *\/$/;"	m	struct:arp_header	file:
+arp_hardware_type	example/get_arp_code.c	/^    u_int16_t arp_hardware_type;$/;"	m	struct:arp_header	file:
+arp_header	codelist/arp_header.c	/^struct arp_header$/;"	s	file:
+arp_header	codelist/headers.c	/^struct arp_header$/;"	s	file:
+arp_header	example/get_arp_code.c	/^struct arp_header$/;"	s	file:
+arp_header	get_arp_code.c	/^struct arp_header$/;"	s	file:
+arp_operation_code	codelist/headers.c	/^    u_int16_t arp_operation_code;    \/* ARP操作码 *\/$/;"	m	struct:arp_header	file:
+arp_operation_code	example/get_arp_code.c	/^    u_int16_t arp_operation_code;$/;"	m	struct:arp_header	file:
+arp_protocol_length	codelist/headers.c	/^    u_int8_t arp_protocol_length;    \/* 协议地址长度 *\/$/;"	m	struct:arp_header	file:
+arp_protocol_length	example/get_arp_code.c	/^    u_int8_t arp_protocol_length;$/;"	m	struct:arp_header	file:
+arp_protocol_packet_callback	example/get_arp_code.c	/^void arp_protocol_packet_callback(u_char *argument, const struct pcap_pkthdr *packet_header, const u_char *packet_content)$/;"	f
+arp_protocol_type	codelist/headers.c	/^    u_int16_t arp_protocol_type;    \/* 协议类型 *\/$/;"	m	struct:arp_header	file:
+arp_protocol_type	example/get_arp_code.c	/^    u_int16_t arp_protocol_type;$/;"	m	struct:arp_header	file:
+arp_source_ethernet_address	codelist/headers.c	/^    u_int8_t arp_source_ethernet_address[6];    \/* 源以太网地址 *\/$/;"	m	struct:arp_header	file:
+arp_source_ethernet_address	example/get_arp_code.c	/^    u_int8_t arp_source_ethernet_address[6];$/;"	m	struct:arp_header	file:
+arp_source_ip_address	codelist/headers.c	/^    u_int8_t arp_source_ip_address[4];    \/* 源IP地址 *\/$/;"	m	struct:arp_header	file:
+arp_source_ip_address	example/get_arp_code.c	/^    u_int8_t arp_source_ip_address[4];$/;"	m	struct:arp_header	file:
+bit	pcap_txt.c	/^                      uppermost bit, which is set for packets  transmitted  by$/;"	v
+blocking	pcap_txt.c	/^       it to be possible to read packets without blocking, if such a  descrip-$/;"	v
+broadcast	pcap_txt.c	/^                           2    packet was multicast, but  not  broadcast,  by$/;"	v
+bugs	pcap_txt.c	/^       Please send problems, bugs, questions, desirable enhancements, etc. to:$/;"	v
+bytes	pcap_txt.c	/^                 bytes, otherwise it's PPP without  framing,  and  the  packet$/;"	v
+bytes	pcap_txt.c	/^                 for a total of 16 bytes; the uncompressed IP datagram follows$/;"	v
+call_back	codelist/loop_capture.c	/^void call_back(u_char *argument,const struct pcap_pkthdr *pkt_header,const u_char *pkt_content)$/;"	f
+call_back	codelist/pcap_main.c	/^void call_back(u_char *argument,const struct pcap_pkthdr *packet_header,const u_char *packet_content)$/;"	f
+call_back	get_arp_code.c	/^void call_back(u_char *argument,const struct pcap_pkthdr *pHeader,const u_char *pContent)$/;"	f
+call_back	get_ethernet2_code.c	/^void call_back(u_char *argument,const struct pcap_pkthdr *packet_header,const u_char *packet_content)$/;"	f
+call_back	pcap_loop_code.c	/^void call_back(u_char *argument,const struct pcap_pkthdr *packet_header,const u_char *packet_content)$/;"	f
+called	pcap_txt.c	/^       processed by pcap_dispatch() or pcap_loop() after it is called; at most$/;"	v
+captures	pcap_txt.c	/^       pcap_geterr().  pcap_stats() is supported only on live captures, not on$/;"	v
+cleared	pcap_txt.c	/^       cleared,  so a subsequent call will resume reading packets.  If a posi-$/;"	v
+cleared	pcap_txt.c	/^       tive number is returned, the flag is not cleared, so a subsequent  call$/;"	v
+contains	pcap_txt.c	/^                 OpenBSD pflog; the link layer header contains, in order:$/;"	v
+contains	pcap_txt.c	/^                 SLIP; the link layer header contains, in order:$/;"	v
+contains	pcap_txt.c	/^                 SunATM devices; the link layer header contains, in order:$/;"	v
+contains	pcap_txt.c	/^                 contains, in order:$/;"	v
+devices	pcap_txt.c	/^       4.6  and  later,  select() and poll() work correctly on BPF devices, so$/;"	v
+devices	pcap_txt.c	/^       and    poll()    do    not    work    correctly    on    BPF   devices;$/;"	v
+dhost	codelist/ethernet_header.c	/^	u_int8_t dhost[6];$/;"	m	struct:ethernet_header	file:
+dhost	get_arp_code.c	/^	u_int8_t dhost[6];$/;"	m	struct:ethernet_header	file:
+directly	pcap_txt.c	/^       with  pcap_dispatch()  or  pcap_loop().   If  called directly, the user$/;"	v
+done	pcap_txt.c	/^                 tured; if a live capture is being done, ``host  byte  order''$/;"	v
+dst_ethernet	codelist/arp_header.c	/^	u_int8_t  dst_ethernet[6];	\/* 目的以太网地址 长度为hardware_len *\/$/;"	m	struct:arp_header	file:
+dst_ethernet	get_arp_code.c	/^	u_int8_t  dst_ethernet[6];$/;"	m	struct:arp_header	file:
+dst_ip	codelist/arp_header.c	/^	u_int8_t  dst_ip[4];		\/* 目的IP地址     长度为protocol_len *\/$/;"	m	struct:arp_header	file:
+dst_ip	codelist/ip_header.c	/^	struct in_addr dst_ip;$/;"	m	struct:ip_header	typeref:struct:ip_header::in_addr	file:
+dst_ip	get_arp_code.c	/^	u_int8_t  dst_ip[4];$/;"	m	struct:arp_header	file:
+enet_dst	example/libnet_sample/libnet_test.h	/^u_char enet_dst[6] = {0x00, 0x10, 0x67, 0x00, 0xb1, 0x86};$/;"	v
+enet_src	example/libnet_sample/libnet_test.h	/^u_char enet_src[6] = {0x0d, 0x0e, 0x0a, 0x0d, 0x00, 0x00};$/;"	v
+enhancements	pcap_txt.c	/^       Please send problems, bugs, questions, desirable enhancements, etc. to:$/;"	v
+error	pcap_txt.c	/^       with pcap_open_live() and pcap_lookupnet().  If there is an error, NULL$/;"	v
+ether_dhost	codelist/headers.c	/^    u_int8_t ether_dhost[6];	\/* 目的以太网地址 *\/$/;"	m	struct:ether_header	file:
+ether_dhost	example/get_arp_code.c	/^    u_int8_t ether_dhost[6];$/;"	m	struct:ether_header	file:
+ether_dhost	get_ethernet1_code.c	/^	u_int8_t ether_dhost[6];	\/\/目的以太网地址$/;"	m	struct:ether_header	file:
+ether_dhost	get_ethernet2_code.c	/^	u_int8_t ether_dhost[6];	\/\/目的以太网地址$/;"	m	struct:ether_hdr	file:
+ether_hdr	get_ethernet2_code.c	/^struct ether_hdr$/;"	s	file:
+ether_header	codelist/headers.c	/^struct ether_header$/;"	s	file:
+ether_header	example/get_arp_code.c	/^struct ether_header$/;"	s	file:
+ether_header	get_ethernet1_code.c	/^struct ether_header$/;"	s	file:
+ether_shost	codelist/headers.c	/^    u_int8_t ether_shost[6];	\/* 源以太网地址 *\/$/;"	m	struct:ether_header	file:
+ether_shost	example/get_arp_code.c	/^    u_int8_t ether_shost[6];$/;"	m	struct:ether_header	file:
+ether_shost	get_ethernet1_code.c	/^	u_int8_t ether_shost[6];	\/\/源以太网地址$/;"	m	struct:ether_header	file:
+ether_shost	get_ethernet2_code.c	/^	u_int8_t ether_shost[6];	\/\/源以太网地址$/;"	m	struct:ether_hdr	file:
+ether_type	codelist/ethernet_header.c	/^	u_int16_t ether_type;$/;"	m	struct:ethernet_header	file:
+ether_type	codelist/headers.c	/^    u_int16_t ether_type;	\/* 以太网类型 *\/$/;"	m	struct:ether_header	file:
+ether_type	example/get_arp_code.c	/^    u_int16_t ether_type;$/;"	m	struct:ether_header	file:
+ether_type	get_arp_code.c	/^	u_int16_t ether_type;$/;"	m	struct:ethernet_header	file:
+ether_type	get_ethernet1_code.c	/^	u_int16_t ether_type;		\/\/以太网类型$/;"	m	struct:ether_header	file:
+ether_type	get_ethernet2_code.c	/^	u_int16_t ether_type;		\/\/以太网类型$/;"	m	struct:ether_hdr	file:
+ethernet_header	codelist/ethernet_header.c	/^struct ethernet_header$/;"	s	file:
+ethernet_header	get_arp_code.c	/^struct ethernet_header$/;"	s	file:
+ethernet_protocol_packet_callback	example/get_arp_code.c	/^void ethernet_protocol_packet_callback(u_char *argument, const struct pcap_pkthdr *packet_header, const u_char *packet_content)$/;"	f
+failure	pcap_txt.c	/^       pile().   -1 is returned on failure, in which case pcap_geterr() may be$/;"	v
+fddi_dst	example/libnet_sample/libnet_test.h	/^u_char fddi_dst[6] = {0x00, 0x10, 0x67, 0x00, 0xb1, 0x86};$/;"	v
+fddi_src	example/libnet_sample/libnet_test.h	/^u_char fddi_src[6] = {0x00, 0x0d, 0x0e, 0x0a, 0x0d, 0x00};$/;"	v
+frames	pcap_txt.c	/^                 ARCNET,  with no exception frames, reassembled packets rather$/;"	v
+frames	pcap_txt.c	/^                 than raw frames, and an extra 16-bit offset field between the$/;"	v
+framing	pcap_txt.c	/^                 HDLC  framing,  as  per  section 4.3.1 of RFC 1547; the first$/;"	v
+getopt	example/libnet_sample/win32/getopt.c	/^getopt(nargc, nargv, ostr)$/;"	f
+hardware_len	codelist/arp_header.c	/^	u_int8_t  hardware_len;		\/* 硬件地址长度   以太网地址长度(为6字节) *\/$/;"	m	struct:arp_header	file:
+hardware_len	get_arp_code.c	/^	u_int8_t  hardware_len;$/;"	m	struct:arp_header	file:
+hardware_type	codelist/arp_header.c	/^	u_int16_t hardware_type;	\/* 硬件地址类型   需要ntohs()转换,0x0001表示以太网地址类型(可看作字节，高低位反向。) *\/$/;"	m	struct:arp_header	file:
+hardware_type	get_arp_code.c	/^	u_int16_t hardware_type;$/;"	m	struct:arp_header	file:
+header	pcap_txt.c	/^                                compressed TCP\/IP datagram header;$/;"	v
+header	pcap_txt.c	/^                      datagram header;$/;"	v
+header	pcap_txt.c	/^                      header, and for COMPRESSED_TCP,  the  compressed  TCP\/IP$/;"	v
+header	pcap_txt.c	/^                 PPPoE;  the  packet  begins  with  a PPPoE header, as per RFC$/;"	v
+hosts	pcap_txt.c	/^       other hosts, are accessible through this mechanism.$/;"	v
+icmp_checksum	codelist/headers.c	/^    u_int16_t icmp_checksum;	\/* 校验和 *\/$/;"	m	struct:icmp_header	file:
+icmp_code	codelist/headers.c	/^    u_int8_t icmp_code;		\/* ICMP代码 *\/$/;"	m	struct:icmp_header	file:
+icmp_header	codelist/headers.c	/^struct icmp_header$/;"	s	file:
+icmp_id	codelist/headers.c	/^    u_int16_t icmp_id;		\/* 标识 *\/$/;"	m	struct:icmp_header	file:
+icmp_sequence	codelist/headers.c	/^    u_int16_t icmp_sequence;	\/* 序列号 *\/$/;"	m	struct:icmp_header	file:
+icmp_type	codelist/headers.c	/^    u_int8_t icmp_type;		\/* ICMP类型 *\/$/;"	m	struct:icmp_header	file:
+ip	example/libnet_sample/icmp6_echoreq.c	/^    struct libnet_ipv6_hdr ip;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_ipv6_hdr	file:
+ip	example/libnet_sample/synflood.c	/^    struct libnet_ipv4_hdr ip;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_ipv4_hdr	file:
+ip	example/libnet_sample/synflood6.c	/^    struct libnet_ipv6_hdr ip;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_ipv6_hdr	file:
+ip	example/libnet_sample/synflood6_frag.c	/^    struct libnet_ipv6_hdr ip;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_ipv6_hdr	file:
+ip_TOS	codelist/ip_header.c	/^	u_int8_t  ip_TOS;	\/\/TOS$/;"	m	struct:ip_header	file:
+ip_checksum	codelist/headers.c	/^    u_int16_t ip_checksum;		\/* 校验和 *\/$/;"	m	struct:ip_header	file:
+ip_checksum	codelist/ip_header.c	/^	u_int16_t ip_checksum;	\/\/首部校验和$/;"	m	struct:ip_header	file:
+ip_destination_address	codelist/headers.c	/^    struct in_addr ip_destination_address;	\/* 目的IP地址 *\/$/;"	m	struct:ip_header	typeref:struct:ip_header::in_addr	file:
+ip_dst	example/libnet_sample/libnet_test.h	/^u_char ip_dst[4]   = {0x0a, 0x00, 0x00, 0x02};$/;"	v
+ip_header	codelist/headers.c	/^struct ip_header$/;"	s	file:
+ip_header	codelist/ip_header.c	/^struct ip_header$/;"	s	file:
+ip_header_len	codelist/ip_header.c	/^		 ip_header_len:4;	\/\/IP首部长度$/;"	m	struct:ip_header	file:
+ip_header_length	codelist/headers.c	/^        ip_header_length: 4;	\/* 首部长度 *\/$/;"	m	struct:ip_header	file:
+ip_id	codelist/headers.c	/^    u_int16_t ip_id;			\/* 标识 *\/$/;"	m	struct:ip_header	file:
+ip_id	codelist/ip_header.c	/^	u_int16_t ip_id;	\/\/IP标识$/;"	m	struct:ip_header	file:
+ip_len	codelist/ip_header.c	/^	u_int16_t ip_len;	\/\/IP封包总长$/;"	m	struct:ip_header	file:
+ip_length	codelist/headers.c	/^    u_int16_t ip_length;		\/* 总长度 *\/$/;"	m	struct:ip_header	file:
+ip_off	codelist/headers.c	/^    u_int16_t ip_off;			\/* 偏移 *\/$/;"	m	struct:ip_header	file:
+ip_off	codelist/ip_header.c	/^	u_int16_t ip_off;	\/\/偏移$/;"	m	struct:ip_header	file:
+ip_protocol	codelist/headers.c	/^    u_int8_t ip_protocol;		\/* 协议类型 *\/$/;"	m	struct:ip_header	file:
+ip_protocol	codelist/ip_header.c	/^	u_int8_t  ip_protocol;	\/\/协议$/;"	m	struct:ip_header	file:
+ip_souce_address	codelist/headers.c	/^    struct in_addr ip_souce_address;	\/* 源IP地址 *\/$/;"	m	struct:ip_header	typeref:struct:ip_header::in_addr	file:
+ip_src	example/libnet_sample/libnet_test.h	/^u_char ip_src[4]   = {0x0a, 0x00, 0x00, 0x01};$/;"	v
+ip_tos	codelist/headers.c	/^    u_int8_t ip_tos;			\/* 服务质量 *\/$/;"	m	struct:ip_header	file:
+ip_ttl	codelist/headers.c	/^    u_int8_t ip_ttl;			\/* 生存时间 *\/$/;"	m	struct:ip_header	file:
+ip_ttl	codelist/ip_header.c	/^	u_int8_t  ip_ttl;	\/\/Time To Live 封包经过一个路由器，存活时间减一$/;"	m	struct:ip_header	file:
+ip_version	codelist/headers.c	/^        u_int8_t ip_version: 4,	\/* 版本 *\/$/;"	m	struct:ip_header	file:
+ip_version	codelist/ip_header.c	/^	u_int8_t ip_version:4,		\/\/IP版本$/;"	m	struct:ip_header	file:
+libnet_timersub	example/libnet_sample/libnet_test.h	19;"	d
+list	pcap_txt.c	/^              next   if  not  NULL, a pointer to the next element in the list;$/;"	v
+list	pcap_txt.c	/^              next   if not NULL, a pointer to the next element in  the  list;$/;"	v
+list	pcap_txt.c	/^       element of the list; each element of the list is of type pcap_if_t, and$/;"	v
+machine	pcap_txt.c	/^                      machine and 1 for packets sent by the machine;$/;"	v
+machine	pcap_txt.c	/^                      machine, and a 4-byte traffic type in  the  low-order  4$/;"	v
+main	codelist/loop_capture.c	/^int main()$/;"	f
+main	codelist/pcap_main.c	/^int main()$/;"	f
+main	example/get_arp_code.c	/^void main()$/;"	f
+main	example/libnet_sample/arp.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/bgp4_hdr.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/bgp4_notification.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/bgp4_open.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/bgp4_update.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/cdp.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/dhcp_discover.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/dns.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/dot1x.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/fddi_tcp1.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/fddi_tcp2.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/get_addr.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/gre.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/hsrp.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/icmp6_echoreq.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/icmp_echo_cq.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/icmp_redirect.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/icmp_timeexceed.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/icmp_timestamp.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/icmp_unreach.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/ieee.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/ip_link.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/ip_raw.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/isl.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/mpls.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/ntp.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/ospf_hello.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/ospf_lsa.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/ping_of_death.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/rpc_tcp.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/rpc_udp.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/sebek.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/smurf.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/stp.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/synflood.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/synflood6.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/synflood6_frag.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/tcp1.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/tcp2.c	/^main(int argc, char **argv)$/;"	f
+main	example/libnet_sample/tftp.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/tring_tcp1.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/tring_tcp2.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/udp1.c	/^main(int argc, char *argv[])$/;"	f
+main	example/libnet_sample/udp2.c	/^main(int argc, char **argv)$/;"	f
+main	get_a_packet_code.c	/^int main()$/;"	f
+main	get_arp_code.c	/^int main()$/;"	f
+main	get_ethernet1_code.c	/^int main()$/;"	f
+main	get_ethernet2_code.c	/^int main ()$/;"	f
+main	getmask_code.c	/^int main()$/;"	f
+main	pcap_loop_code.c	/^int main()$/;"	f
+main	send_arp.c	/^void main()$/;"	f
+main	test/big_little_endian.c	/^int  main()$/;"	f
+main	test/ctime_example.c	/^void main()$/;"	f
+main	test/data_type_length.c	/^int main()$/;"	f
+main	test/test_int2char.c	/^int main()$/;"	f
+message	pcap_txt.c	/^       appropriate error message; 0 is returned on success.$/;"	v	typeref:struct:error
+multicast	pcap_txt.c	/^                           2    packet was multicast, but  not  broadcast,  by$/;"	v
+name	pcap_txt.c	/^       pcap_datalink_name_to_val() translates a data link type name, which  is$/;"	v
+needed	pcap_txt.c	/^       no longer needed, for example after it has been made the filter program$/;"	v
+networks	pcap_txt.c	/^       most  if  not  all networks, to capture all the data available from the$/;"	v
+now	pcap_txt.c	/^       could well be in promiscuous mode for some  other  reason.)   For  now,$/;"	v
+operation_code	codelist/arp_header.c	/^	u_int16_t operation_code;	\/* 操作类型       需要ntohs()转换,ARP请求为1，ARP响应为2，RARP请求为3，RARP响应为4(可看作字节，高低位反向 *\/$/;"	m	struct:arp_header	file:
+operation_code	get_arp_code.c	/^	u_int16_t operation_code;$/;"	m	struct:arp_header	file:
+optarg	example/libnet_sample/libnet_test.h	/^extern __dllspec(dllimport) char *optarg;$/;"	v
+optarg	example/libnet_sample/win32/getopt.c	/^char	*optarg;		\/* argument associated with option *\/$/;"	v
+opterr	example/libnet_sample/win32/getopt.c	/^int	opterr = 1,		\/* if error message should be printed *\/$/;"	v
+optind	example/libnet_sample/win32/getopt.c	/^	optind = 1,		\/* index into parent argv vector *\/$/;"	v
+optopt	example/libnet_sample/win32/getopt.c	/^	optopt,			\/* character checked for validity *\/$/;"	v
+optreset	example/libnet_sample/win32/getopt.c	/^	optreset;		\/* reset getopt *\/$/;"	v
+order	pcap_txt.c	/^                      a  2-byte  action  code, in network byte order, which is$/;"	v
+order	pcap_txt.c	/^                      a  2-byte  field,  in network byte order, containing the$/;"	v
+order	pcap_txt.c	/^                      a  2-byte "packet type", in network byte order, which is$/;"	v
+order	pcap_txt.c	/^                      a 1-byte direction, in network byte order, which is  one$/;"	v
+order	pcap_txt.c	/^                      a 1-byte header length, in host byte order;$/;"	v
+order	pcap_txt.c	/^                      a 2-byte field, in  network  byte  order,  containing  a$/;"	v
+order	pcap_txt.c	/^                      a 2-byte reason code, in network byte  order,  which  is$/;"	v
+order	pcap_txt.c	/^                      a 4-byte PF_ value, in host byte order;$/;"	v
+order	pcap_txt.c	/^                      a 4-byte rule number, in network byte order;$/;"	v
+order	pcap_txt.c	/^                      a 4-byte subrule number, in network byte order;$/;"	v
+order	pcap_txt.c	/^                      network byte order, or containing  1  for  Novell  802.3$/;"	v
+order	pcap_txt.c	/^                 4-byte field, in network byte order, containing a  PF_  value$/;"	v
+org_code	example/libnet_sample/libnet_test.h	/^u_char org_code[3] = {0x00, 0x00, 0x00};$/;"	v
+packet	pcap_txt.c	/^                      type of packet, as per RFC 1144:$/;"	v
+packet	pcap_txt.c	/^              len    a  bpf_u_int32  giving the length of the packet, in bytes$/;"	v	typeref:struct:the
+packets	pcap_txt.c	/^                 is  the  byte order of the machine capturing the packets, and$/;"	v
+packets	pcap_txt.c	/^                 the  packets,  but  if a ``savefile'' is being read, the byte$/;"	v
+pcap_handler	pcap_txt.c	/^       typedef void (*pcap_handler)(u_char *user, const struct pcap_pkthdr *h,$/;"	t	file:
+pcap_if_t	pcap_txt.c	/^       element of the list; each element of the list is of type pcap_if_t, and$/;"	v
+platforms	pcap_txt.c	/^       Note  that  pcap_next()  will,  on some platforms, loop reading packets$/;"	v
+platforms	pcap_txt.c	/^       Note that, on some platforms,  the  link-layer  header  of  the  packet$/;"	v
+printf_ether_type	get_ethernet2_code.c	/^void printf_ether_type(u_short *e_type)$/;"	f
+printf_mac	get_arp_code.c	/^void printf_mac(u_char *mac_str)$/;"	f
+printf_mac	get_ethernet2_code.c	/^void printf_mac(u_char *mac)$/;"	f
+protocol_len	codelist/arp_header.c	/^	u_int8_t  protocol_len;		\/* 协议地址长度   IP地址长度(为4字节) *\/$/;"	m	struct:arp_header	file:
+protocol_len	get_arp_code.c	/^	u_int8_t  protocol_len;$/;"	m	struct:arp_header	file:
+protocol_type	codelist/arp_header.c	/^	u_int16_t protocol_type;	\/* 协议地址类型   需要ntohs()转换,0x0800表示IP地址类型(可看作字节，高低位反向，。) *\/$/;"	m	struct:arp_header	file:
+protocol_type	get_arp_code.c	/^	u_int16_t protocol_type;$/;"	m	struct:arp_header	file:
+questions	pcap_txt.c	/^       Please send problems, bugs, questions, desirable enhancements, etc. to:$/;"	v
+read	pcap_txt.c	/^                 Note that, if a ``savefile'' is being read, those PF_  values$/;"	v
+read	pcap_txt.c	/^                 the  packets,  but  if a ``savefile'' is being read, the byte$/;"	v
+read	pcap_txt.c	/^       are currently available to be read, return 0  immediately  rather  than$/;"	v
+read	pcap_txt.c	/^       packets are read, if a network device was opened with pcap_open_live(),$/;"	v
+removed	pcap_txt.c	/^       a  DLT_ name with the DLT_ removed, to the corresponding data link type$/;"	v
+savefile	pcap_txt.c	/^       pcap_dump_flush() flushes the output buffer  to  the  ``savefile,''  so$/;"	v
+savefile	pcap_txt.c	/^       pcap_file()  returns  the standard I\/O stream of the ``savefile,'' if a$/;"	v
+savefile	pcap_txt.c	/^       savefile;  pcap_minor_version()  returns  the  minor number of the file$/;"	v
+savefiles	pcap_txt.c	/^       ``savefiles''; no statistics are stored in ``savefiles'', so no statis-$/;"	v
+sccsid	example/libnet_sample/win32/getopt.c	/^static char sccsid[] = "@(#)getopt.c	8.3 (Berkeley) 4\/27\/95";$/;"	v	file:
+sending	pcap_txt.c	/^       indicate whether to open for capturing, sending, or capturing and send-$/;"	v
+sent	pcap_txt.c	/^       assigned to the interface on which the packet it sent, if the  platform$/;"	v
+set_ptr_and_size	example/libnet_sample/bgp4_update.c	83;"	d	file:
+shost	codelist/ethernet_header.c	/^	u_int8_t shost[6];$/;"	m	struct:ethernet_header	file:
+shost	get_arp_code.c	/^	u_int8_t shost[6];$/;"	m	struct:ethernet_header	file:
+signal	pcap_txt.c	/^       from the OS; that loop will not necessarily be terminated by a  signal,$/;"	v
+src_ethernet	codelist/arp_header.c	/^	u_int8_t  src_ethernet[6];	\/* 源以太网地址   长度为hardware_len *\/$/;"	m	struct:arp_header	file:
+src_ethernet	get_arp_code.c	/^	u_int8_t  src_ethernet[6];$/;"	m	struct:arp_header	file:
+src_ip	codelist/arp_header.c	/^	u_int8_t  src_ip[4];		\/* 源IP地址       长度为protocol_len *\/$/;"	m	struct:arp_header	file:
+src_ip	codelist/ip_header.c	/^	struct in_addr src_ip;$/;"	m	struct:ip_header	typeref:struct:ip_header::in_addr	file:
+src_ip	get_arp_code.c	/^	u_int8_t  src_ip[4];$/;"	m	struct:arp_header	file:
+stderr	pcap_txt.c	/^       pcap_perror() prints the text of the last pcap library error on stderr,$/;"	v
+supplied	pcap_txt.c	/^       is supplied, the promisc flag is ignored.   to_ms  specifies  the  read$/;"	v
+supplied	pcap_txt.c	/^       supplied;  tests  for  IPv4 broadcast addreses won't be done correctly,$/;"	v
+t_pack	example/libnet_sample/icmp6_echoreq.c	/^struct t_pack$/;"	s	file:
+t_pack	example/libnet_sample/synflood.c	/^struct t_pack$/;"	s	file:
+t_pack	example/libnet_sample/synflood6.c	/^struct t_pack$/;"	s	file:
+t_pack	example/libnet_sample/synflood6_frag.c	/^struct t_pack$/;"	s	file:
+tcp	example/libnet_sample/icmp6_echoreq.c	/^    struct libnet_tcp_hdr tcp;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_tcp_hdr	file:
+tcp	example/libnet_sample/synflood.c	/^    struct libnet_tcp_hdr tcp;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_tcp_hdr	file:
+tcp	example/libnet_sample/synflood6.c	/^    struct libnet_tcp_hdr tcp;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_tcp_hdr	file:
+tcp	example/libnet_sample/synflood6_frag.c	/^    struct libnet_tcp_hdr tcp;$/;"	m	struct:t_pack	typeref:struct:t_pack::libnet_tcp_hdr	file:
+tcp_ack	codelist/headers.c	/^    u_int32_t tcp_ack;			\/* 确认码 *\/$/;"	m	struct:tcp_header	file:
+tcp_acknowledgement	codelist/headers.c	/^    u_int32_t tcp_acknowledgement;	\/* 序列号 *\/$/;"	m	struct:tcp_header	file:
+tcp_checksum	codelist/headers.c	/^    u_int16_t tcp_checksum;		\/* 校验和 *\/$/;"	m	struct:tcp_header	file:
+tcp_destination_port	codelist/headers.c	/^    u_int16_t tcp_destination_port;	\/* 目的端口号 *\/$/;"	m	struct:tcp_header	file:
+tcp_flags	codelist/headers.c	/^    u_int8_t tcp_flags;			\/* 标记 *\/$/;"	m	struct:tcp_header	file:
+tcp_header	codelist/headers.c	/^struct tcp_header$/;"	s	file:
+tcp_offset	codelist/headers.c	/^        tcp_offset: 4;			\/* 偏移 *\/$/;"	m	struct:tcp_header	file:
+tcp_offset	codelist/headers.c	/^        u_int8_t tcp_offset: 4,		\/* 偏移 *\/$/;"	m	struct:tcp_header	file:
+tcp_reserved	codelist/headers.c	/^        tcp_reserved: 4;		\/* 保留 *\/$/;"	m	struct:tcp_header	file:
+tcp_reserved	codelist/headers.c	/^        u_int8_t tcp_reserved: 4,	\/* 保留 *\/$/;"	m	struct:tcp_header	file:
+tcp_source_port	codelist/headers.c	/^    u_int16_t tcp_source_port;		\/* 源端口号 *\/$/;"	m	struct:tcp_header	file:
+tcp_urgent_pointer	codelist/headers.c	/^    u_int16_t tcp_urgent_pointer;	\/* 紧急指针 *\/$/;"	m	struct:tcp_header	file:
+tcp_windows	codelist/headers.c	/^    u_int16_t tcp_windows;		\/* 窗口大小 *\/$/;"	m	struct:tcp_header	file:
+text	pcap_txt.c	/^       used to display the error text; 0 is returned on success.$/;"	v
+tr_dst	example/libnet_sample/libnet_test.h	/^u_char tr_dst[6]   = {0x00, 0x10, 0x67, 0x00, 0xb1, 0x86};$/;"	v
+tr_src	example/libnet_sample/libnet_test.h	/^u_char tr_src[6]   = {0x00, 0x0d, 0x0e, 0x0a, 0x0d, 0x00};$/;"	v
+type	pcap_txt.c	/^                      Linux ARPHRD_ value for the link layer device type;$/;"	v
+udp_checksum	codelist/headers.c	/^    u_int16_t udp_checksum;		\/* 校验和 *\/$/;"	m	struct:udp_header_liuwentao	file:
+udp_destination_port	codelist/headers.c	/^    u_int16_t udp_destination_port;	\/* 目的端口号 *\/$/;"	m	struct:udp_header_liuwentao	file:
+udp_header_liuwentao	codelist/headers.c	/^struct udp_header_liuwentao$/;"	s	file:
+udp_length	codelist/headers.c	/^    u_int16_t udp_length;		\/* 长度 *\/$/;"	m	struct:udp_header_liuwentao	file:
+udp_source_port	codelist/headers.c	/^    u_int16_t udp_source_port;		\/* 源端口号 *\/$/;"	m	struct:udp_header_liuwentao	file:
+usage	example/libnet_sample/bgp4_hdr.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/bgp4_notification.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/bgp4_open.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/bgp4_update.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/dhcp_discover.c	/^usage(char *prog)$/;"	f
+usage	example/libnet_sample/dns.c	/^usage(char *prog)$/;"	f
+usage	example/libnet_sample/fddi_tcp1.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/fddi_tcp2.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/gre.c	/^usage(char *prog)$/;"	f
+usage	example/libnet_sample/icmp6_echoreq.c	/^usage(char *nomenclature)$/;"	f
+usage	example/libnet_sample/icmp_echo_cq.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/icmp_redirect.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/icmp_timeexceed.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/icmp_timestamp.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/icmp_unreach.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/ip_link.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/ip_raw.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/mpls.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/ntp.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/ospf_hello.c	/^usage(char *pname)$/;"	f
+usage	example/libnet_sample/ospf_lsa.c	/^usage(char *pname)$/;"	f
+usage	example/libnet_sample/rpc_tcp.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/rpc_udp.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/sebek.c	/^void usage(char *name)$/;"	f
+usage	example/libnet_sample/smurf.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/stp.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/synflood.c	/^usage(char *nomenclature)$/;"	f
+usage	example/libnet_sample/synflood6.c	/^usage(char *nomenclature)$/;"	f
+usage	example/libnet_sample/synflood6_frag.c	/^usage(char *nomenclature)$/;"	f
+usage	example/libnet_sample/tcp1.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/tcp2.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/tftp.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/tring_tcp1.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/tring_tcp2.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/udp1.c	/^usage(char *name)$/;"	f
+usage	example/libnet_sample/udp2.c	/^usage(char *name)$/;"	f
+used	pcap_txt.c	/^       about  the version of the libpcap library being used; note that it con-$/;"	v
+wire	pcap_txt.c	/^                                byte  of  the  raw IP header on the wire, con-$/;"	v
+worse	pcap_txt.c	/^       worse, some drivers on some platforms might change the link-layer  type$/;"	v
+x03	pcap_txt.c	/^                 PPP; if the first 2 bytes are 0xff  and  0x03,  it's  PPP  in$/;"	v
