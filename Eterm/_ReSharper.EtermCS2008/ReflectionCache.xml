@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821" Image="72042a24-6637-446d-8d64-18093414f776" Timestamp="632792930680000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="b851d466-f072-4fde-8fa6-7958c0be96fd" Timestamp="633559454920000000" XmlDocIndexTimestamp="633559454920000000" />
+  <Assembly Name="Leey.Net.eTerm, Version=3.3.6.9, Culture=neutral, PublicKeyToken=null" Image="090b4a93-5fa0-443d-a693-616d5401a0ca" Timestamp="633597743000000000" XmlDocIndexTimestamp="633597735362000000" />
+  <Assembly Name="Leey.Net.eTerm, Version=3.3.6.9, Culture=neutral" Image="d1f13fe6-1790-4ffa-95e2-5f3023258185" Timestamp="633598090880000000" XmlDocIndexTimestamp="633597735362000000" />
+</Assemblies>

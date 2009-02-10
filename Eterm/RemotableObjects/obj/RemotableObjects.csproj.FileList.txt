@@ -1,0 +1,8 @@
+bin\Debug\RemotableObjects.dll
+bin\Debug\RemotableObjects.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemotableObjects.dll
+obj\Debug\RemotableObjects.pdb
+bin\Release\RemotableObjects.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RemotableObjects.dll

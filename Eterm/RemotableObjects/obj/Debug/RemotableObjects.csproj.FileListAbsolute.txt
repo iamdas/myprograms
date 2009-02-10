@@ -1,0 +1,24 @@
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\bin\Debug\RemotableObjects.dll
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\bin\Debug\RemotableObjects.pdb
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\ResolveAssemblyReference.cache
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\RemotableObjects.dll
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\RemotableObjects.pdb
+D:\eTerm Web Demo\EtermClient\bin\Lib\RemotableObjects.dll
+D:\eTerm Web Demo\EtermClient\bin\Lib\RemotableObjects.pdb
+D:\eTerm Web Demo\EtermClient\Lib\RemotableObjects.dll
+D:\eTerm Web Demo\EtermClient\Lib\RemotableObjects.pdb
+D:\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\RemotableObjects.dll
+D:\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\RemotableObjects.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\Lib\RemotableObjects.dll
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\Lib\RemotableObjects.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\ResolveAssemblyReference.cache
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\RemotableObjects.dll
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\RemotableObjects\obj\Debug\RemotableObjects.pdb
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\Lib\RemotableObjects.dll
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\Lib\RemotableObjects.pdb
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\Lib\RemotableObjects.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\Lib\RemotableObjects.pdb
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\RemotableObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\RemotableObjects\obj\Debug\RemotableObjects.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\RemotableObjects\obj\Debug\RemotableObjects.pdb

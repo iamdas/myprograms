@@ -1,0 +1,90 @@
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe.config
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.exe
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.pdb
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.pdb
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.dll
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.dll
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.pdb
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\ResolveAssemblyReference.cache
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmLogin.resources
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmRegistor.resources
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.Properties.Resources.resources
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermDEMO.csproj.GenerateResource.Cache
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe.config
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.exe
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.pdb
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.pdb
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.dll
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.dll
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\agsXMPP.dll
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.pdb
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.xml
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\log4net.xml
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.pdb
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\agsXMPP.pdb
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\ResolveAssemblyReference.cache
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.Form1.resources
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmLogin.resources
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmRegistor.resources
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.Properties.Resources.resources
+K:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermDEMO.csproj.GenerateResource.Cache
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe.config
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.pdb
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.dll
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\log4net.dll
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.dll
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\agsXMPP.dll
+D:\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.pdb
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\ResolveAssemblyReference.cache
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.Form1.resources
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmLogin.resources
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmRegistor.resources
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.Properties.Resources.resources
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermDEMO.csproj.GenerateResource.Cache
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.exe
+D:\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.pdb
+D:\eTerm 3.0.2.8 Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe.config
+D:\eTerm 3.0.2.8 Demo\EtermClient\EtermCS\obj\Debug\EtermCS.exe
+D:\eTerm 3.0.2.8 Demo\EtermClient\EtermCS\obj\Debug\EtermCS.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe.config
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.exe
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\EtermCS.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.dll
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\log4net.dll
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.dll
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\RemotableObjects.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\ResolveAssemblyReference.cache
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmLogin.resources
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmRegistor.resources
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.Properties.Resources.resources
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermDEMO.csproj.GenerateResource.Cache
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.exe
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\EtermCS.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.pdb
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\Leey.Net.eTerm.xml
+J:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmMain.resources
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\log4net.dll
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\obj\Debug\Eterm.frmMain.resources
+H:\U盘\新建文件夹\Eterm DEMO\CRS\eTerm Web Demo\EtermClient\EtermCS\bin\Debug\agsXMPP.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\EtermCS.exe.config
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\EtermCS.exe
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\EtermCS.pdb
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\Eterm.frmMain.resources
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\Eterm.frmLogin.resources
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\Eterm.frmRegistor.resources
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\EtermCS.Properties.Resources.resources
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\obj\Debug\EtermDEMO.csproj.GenerateResource.Cache
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\EtermCS.exe
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\EtermCS.pdb
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\Leey.Net.eTerm.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\log4net.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\RemotableObjects.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\agsXMPP.dll
+C:\Documents and Settings\LEEY\桌面\EtermSimpleDemo\EtermCS\bin\Debug\RemotableObjects.pdb
+F:\Pro\EtermSimpleDemo\EtermCS\bin\Debug\EtermCS.exe.config
+F:\Pro\EtermSimpleDemo\EtermCS\obj\Debug\EtermCS.exe
+F:\Pro\EtermSimpleDemo\EtermCS\obj\Debug\EtermCS.pdb
