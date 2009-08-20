@@ -5,19 +5,19 @@
         <text>%u5C31%u8FD9%u4E48%u505A%uFF01%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="197" w="-1" h="-1" measuredW="66" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="190" w="-1" h="-1" measuredW="66" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u4E3B%u9875</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Accordion" x="77" y="244" w="-1" h="-1" measuredW="150" measuredH="226" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Accordion" x="77" y="227" w="-1" h="-1" measuredW="150" measuredH="226" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u79CB%u5B63%u8DEF%u7EBF%u63A8%u8350%0A%u70ED%u95E8%u666F%u70B9%u63A8%u8350%0AItem%20Three%0AItem%20Four</text>
+        <text>%u79CB%u5B63%u8DEF%u7EBF%u63A8%u8350%0A%u70ED%u95E8%u666F%u70B9%u63A8%u8350%0A%u62A0%u95E8%u8BC0%u7A8D%0AItem%20Four</text>
         <selectedIndex>1</selectedIndex>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Map" x="285" y="244" w="424" h="226" measuredW="252" measuredH="222" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="591" y="252" w="-1" h="-1" measuredW="103" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Map" x="300" y="227" w="424" h="226" measuredW="252" measuredH="222" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="610" y="238" w="-1" h="-1" measuredW="103" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7B2C%u4E00%u5929%20%20%20%20</text>
       </controlProperties>
@@ -27,6 +27,13 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Webcam" x="77" y="93" w="235" h="89" measuredW="177" measuredH="145" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Webcam" x="77" y="86" w="235" h="89" measuredW="177" measuredH="145" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::ButtonBar" x="317" y="134" w="-1" h="-1" measuredW="359" measuredH="41" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9996%u9875%2C%u73A9%2C%u98DF%2C%u4F4F%2C%u884C%2C%u8BC4</text>
+        <size>24</size>
+        <selectedIndex>-1</selectedIndex>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
