@@ -5,7 +5,7 @@
         <text>%u5C31%u8FD9%u4E48%u505A%uFF01%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="190" w="-1" h="-1" measuredW="66" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="190" w="-1" h="-1" measuredW="66" measuredH="22" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
         <text>%u4E3B%u9875</text>
       </controlProperties>
@@ -20,6 +20,7 @@
     <control controlID="7" controlTypeID="com.balsamiq.mockups::DateChooser" x="610" y="238" w="-1" h="-1" measuredW="103" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7B2C%u4E00%u5929%20%20%20%20</text>
+        <state>up</state>
       </controlProperties>
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="969" y="77" w="-1" h="680" measuredW="16" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
@@ -27,8 +28,8 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Webcam" x="77" y="86" w="235" h="89" measuredW="177" measuredH="145" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::ButtonBar" x="317" y="134" w="-1" h="-1" measuredW="359" measuredH="41" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Webcam" x="77" y="86" w="235" h="89" measuredW="177" measuredH="145" zOrder="6" locked="true" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::ButtonBar" x="317" y="134" w="-1" h="-1" measuredW="359" measuredH="41" zOrder="7" locked="true" isInGroup="-1">
       <controlProperties>
         <text>%u9996%u9875%2C%u73A9%2C%u98DF%2C%u4F4F%2C%u884C%2C%u8BC4</text>
         <size>24</size>
