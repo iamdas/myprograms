@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" measuredW="1004" measuredH="802">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="1" w="994" h="791" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%u5C31%u8FD9%u4E48%u505A%uFF01%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Webcam" x="77" y="96" w="150" h="42" measuredW="177" measuredH="145" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::ButtonBar" x="285" y="96" w="-1" h="-1" measuredW="490" measuredH="41" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9996%u9875%2C%u70ED%u95E8%u7EBF%u8DEF%2C%u73A9%2C%u98DF%2C%u4F4F%2C%u884C%2C%u8BC4</text>
+        <size>24</size>
+        <selectedIndex>-1</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Accordion" x="77" y="196" w="150" h="112" measuredW="150" measuredH="226" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u79CB%u5B63%u8DEF%u7EBF%u63A8%u8350%0A%u70ED%u95E8%u666F%u70B9%u63A8%u8350%0A%u57CE%u90CA%u6E38%u73A9%0A%u62A0%u95E8%u8BC0%u7A8D</text>
+        <selectedIndex>-1</selectedIndex>
+        <verticalScrollbar>true</verticalScrollbar>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="240" y="181" w="579" h="380" measuredW="200" measuredH="182" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <position>right</position>
+        <text>%u6536%u85CF%0A%u8BC4%u8BBA%0A%u4FEE%u6539%0ADIY%u4E00%u4E2A%uFF01</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="252" y="196" w="-1" h="-1" measuredW="490" measuredH="350" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./image/travel_show.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="153" w="-1" h="-1" measuredW="110" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4E3B%u9875%2C%u70ED%u95E8%u7EBF%u8DEF</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="969" y="77" w="-1" h="680" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
