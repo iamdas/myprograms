@@ -22,20 +22,27 @@
         <selectedIndex>-1</selectedIndex>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="512" y="184" w="-1" h="-1" measuredW="266" measuredH="115" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="544" y="184" w="-1" h="-1" measuredW="301" measuredH="115" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>-1</selectedIndex>
-        <verticalScrollbar>true</verticalScrollbar>
-        <value>2</value>
-        <text>%u65F6%u95F4%2C%u9879%u76EE%2C%u4EF7%u683C%2C%u786E%u5B9A%0A%u65E98%3A00%2C%u65E9%u9910%2C10%u5143%2C%5Bx%5D%0A%u4E0A%u5348%2C%u770B%u68EE%u6797%2C%u514D%u8D39%2C%5Bx%5D%0A%u4E0A%u5348%2C%u5230%u6EAA%u8FB9%u9493%u9C7C%2C%2020-30%u5143%2C%5B%5D</text>
-        <hasHeader>true</hasHeader>
-        <rowHeight>30</rowHeight>
-        <vLines>true</vLines>
         <hLines>false</hLines>
+        <verticalScrollbar>true</verticalScrollbar>
         <borderStyle>square</borderStyle>
+        <selectedIndex>-1</selectedIndex>
+        <color>16777215</color>
+        <hasHeader>true</hasHeader>
+        <vLines>true</vLines>
+        <text>%u65F6%u95F4%2C%u9879%u76EE%2C%u4EF7%u683C%28%u5F53%u524D%3A30-40%29%2C%u786E%u5B9A%0A%u65E98%3A00%2C%u65E9%u9910%2C10%u5143%2C%5Bx%5D%0A%u4E0A%u5348%2C%u770B%u68EE%u6797%2C%u514D%u8D39%2C%5B%5D%0A%u4E0A%u5348%2C%u5230%u6EAA%u8FB9%u9493%u9C7C%2C%2020-30%u5143%2C%5Bx%5D</text>
+        <value>2</value>
+        <rowHeight>30</rowHeight>
+        <alternateRowColor>15594478</alternateRowColor>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::CoverFlow" x="512" y="356" w="432" h="198" measuredW="493" measuredH="198" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::CoverFlow" x="512" y="356" w="432" h="198" measuredW="493" measuredH="198" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+        <value>41</value>
+      </controlProperties>
+    </control>
     <control controlID="24" controlTypeID="com.balsamiq.mockups::Icon" x="709" y="332" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ShiftIcon%7Csmall</icon>
