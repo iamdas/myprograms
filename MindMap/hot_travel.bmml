@@ -21,15 +21,30 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="240" y="181" w="579" h="380" measuredW="200" measuredH="182" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="354" y="196" w="579" h="380" measuredW="200" measuredH="182" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <position>right</position>
         <text>%u6536%u85CF%0A%u8BC4%u8BBA%0A%u4FEE%u6539%0ADIY%u4E00%u4E2A%uFF01</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="252" y="196" w="-1" h="-1" measuredW="490" measuredH="350" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="362" y="211" w="-1" h="-1" measuredW="490" measuredH="350" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./image/travel_show.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::DataGrid" x="77" y="356" w="255" h="205" measuredW="240" measuredH="205" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hLines>false</hLines>
+        <alternateRowColor>15594478</alternateRowColor>
+        <rowHeight>30</rowHeight>
+        <color>16777215</color>
+        <borderStyle>square</borderStyle>
+        <vLines>true</vLines>
+        <text>%u65F6%u95F4%2C%u5730%u70B9%2C%u9879%u76EE%0A%u65E98%3A00%2C%u77F3%u5BB6%u5E84%2C%u5750%u5927%u5DF4%u51FA%u53D1%0A%u7B2C%u4E8C%u5929%2C%u4E09%u95E8%u5CE1%2C%u6E38%u73A9%u4E00%u5929%0A%u665A%u4E0A%2C%u5927%u5DF4%2C%u5750%u5927%u5DF4%u5230%u5357%u660C%0A%u7B2C%u4E09%u5929%2C%u5357%u660C%2C%u6E38%u89C8%u5357%u660C%u8D77%u4E49%u540D%u80DC%0A%u665A%u4E0A%2CXX%u9152%u5E97%2C%u9910%u996E+%u4F11%u606F%0A%u7B2C%u56DB%u5929%2C%u673A%u573A%2C%u8FD4%u56DE</text>
+        <value>2</value>
+        <hasHeader>true</hasHeader>
+        <verticalScrollbar>true</verticalScrollbar>
+        <selectedIndex>-1</selectedIndex>
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="153" w="-1" h="-1" measuredW="110" measuredH="22" zOrder="3" locked="false" isInGroup="-1">

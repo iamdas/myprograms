@@ -1,12 +1,14 @@
 <mockup version="1.0" skin="sketch" measuredW="1004" measuredH="802">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="1" w="994" h="791" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="1" w="994" h="791" measuredW="450" measuredH="400" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
         <text>%u5C31%u8FD9%u4E48%u505A%uFF01%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="77" y="184" w="428" h="370" measuredW="141" measuredH="144" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties/>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="77" y="191" w="-1" h="-1" measuredW="284" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4EBA%u6570%20%20%20%20%20%20%20%20%20%20%20%20%20%D7%u5F53%u524D%u4EF7%u683C30-40%u5143%20%3D%u603B%u4EF7%u683C60-80%u5143</text>
+      </controlProperties>
     </control>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="77" y="154" w="-1" h="-1" measuredW="103" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
@@ -22,33 +24,27 @@
         <selectedIndex>-1</selectedIndex>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="544" y="184" w="-1" h="-1" measuredW="301" measuredH="115" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="65" y="224" w="-1" h="-1" measuredW="308" measuredH="115" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <hLines>false</hLines>
-        <verticalScrollbar>true</verticalScrollbar>
-        <borderStyle>square</borderStyle>
-        <selectedIndex>-1</selectedIndex>
-        <color>16777215</color>
-        <hasHeader>true</hasHeader>
-        <vLines>true</vLines>
-        <text>%u65F6%u95F4%2C%u9879%u76EE%2C%u4EF7%u683C%28%u5F53%u524D%3A30-40%29%2C%u786E%u5B9A%0A%u65E98%3A00%2C%u65E9%u9910%2C10%u5143%2C%5Bx%5D%0A%u4E0A%u5348%2C%u770B%u68EE%u6797%2C%u514D%u8D39%2C%5B%5D%0A%u4E0A%u5348%2C%u5230%u6EAA%u8FB9%u9493%u9C7C%2C%2020-30%u5143%2C%5Bx%5D</text>
-        <value>2</value>
         <rowHeight>30</rowHeight>
+        <verticalScrollbar>false</verticalScrollbar>
+        <color>16777215</color>
+        <borderStyle>square</borderStyle>
+        <vLines>true</vLines>
+        <text>%u5929%u6570%2C%u65F6%u95F4%2C%u9879%u76EE%2C%u4EF7%u683C%2C%u786E%u5B9A%0A%u7B2C%u4E00%u5929%2C%u65E98%3A00%2C%u65E9%u9910%2C10%u5143%2C%5Bx%5D%0A%2C%u4E0A%u5348%2C%u770B%u68EE%u6797%2C%u514D%u8D39%2C%5B%5D%0A%2C%u4E0A%u5348%2C%u5230%u6EAA%u8FB9%u9493%u9C7C%2C%2020-30%u5143%2C%5Bx%5D</text>
+        <value>2</value>
+        <hasHeader>true</hasHeader>
         <alternateRowColor>15594478</alternateRowColor>
+        <selectedIndex>-1</selectedIndex>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::CoverFlow" x="512" y="356" w="432" h="198" measuredW="493" measuredH="198" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::NumericStepper" x="115" y="189" w="-1" h="-1" measuredW="40" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <verticalScrollbar>true</verticalScrollbar>
-        <value>41</value>
+        <text>2</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Icon" x="709" y="332" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ShiftIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="969" y="77" w="-1" h="680" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="969" y="77" w="-1" h="680" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <value>0</value>
       </controlProperties>
